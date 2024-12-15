@@ -1,12 +1,12 @@
 .card {
-  width: 40rem;
+  width: 30rem;
   padding: 1rem;
   background-color: var(--haze-white);
 }
 
 .title {
   text-align: center;
-  margin: 0.5rem 0 2rem 0;
+  margin: 0 auto;
 }
 
 .body {
